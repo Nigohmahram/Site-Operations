@@ -3,9 +3,9 @@
     margin: 0;
     top: 0;
     text-decoration: none;
-    
-    
-    
+
+
+
 }
 header{
     height: 70px;
@@ -15,9 +15,9 @@ header{
 }
 .box{
     font-size: 15px;
-    
-    
-   
+
+
+
 }
 .box ul{
     list-style: none;
@@ -38,18 +38,18 @@ header{
     border-radius: 10px;
     padding: 3px 15px;
     background-color: #ff33c5;
-    
+
 }
 section{
     height: 670px;
     width: 100%;
-    background-image: url(../img/AdobeStock.jpeg);
+    background-image: url(AdobeStock.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.9;
-    
-   
+
+
 }
 .main{
     position:absolute;
@@ -62,7 +62,7 @@ section{
     text-transform: uppercase;
     transform: translate(-50%, -50%);
     font-weight: bold;
-    
+
 }
 span{
     color: #905631;
@@ -71,7 +71,7 @@ span{
     position: absolute;
     top: 60%;
     left: 50%;
-    
+
 
 }
 .btn{
@@ -89,7 +89,3 @@ span{
     color: #A7DD3C;;
     border-radius: 5px;
 }
-
-
-
-
